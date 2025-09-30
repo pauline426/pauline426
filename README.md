@@ -1,4 +1,4 @@
-## Hi there 👋
+![Galuh pauline](img/github-header-banner%20(3).png)
 
 <!--
 **pauline426/pauline426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
