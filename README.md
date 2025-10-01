@@ -77,6 +77,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
+---
+
+### 🎮 Fun Stuff
+[![Play Pacman](https://img.shields.io/badge/Play%20Pacman-000000?style=for-the-badge&logo=ghost&logoColor=white)](https://pacman.platzh1r0.repl.co)
+
+
 ###
 
 
