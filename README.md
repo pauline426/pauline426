@@ -12,9 +12,7 @@
 
 ##### Connect With Me
 
-![https://www.instagram.com/gpaulngrh/?utm_source=qr&r=nametag](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gpaulngrh/?utm_source=qr&r=nametag)
 
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white">
 
