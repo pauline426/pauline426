@@ -1,33 +1,23 @@
 ![Galuh pauline](img/github-header-banner%20(6).png)
 ![gift](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnBueHZrdmRuZ3JlZDl6MXFkaHFmdm9qcW4ycWxqOHpmZ2trbG9vYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jgoG5u6rU7zV4c3ohd/giphy.gif)
 
-<div align="center"> 
+<div style="text-align:center;">
 
 ##### 🌟 SKILLS
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</div>
 
-<div align="center"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-</div>
 
-<div align="center"> 
 <img src="https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge">
-</div>
 
-<div align="center"> 
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-</div>
 
-<div align="center">
 
 ##### 🌐 SOCIALS
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gpaulngrh/?utm_source=qr&r=nametag)
 
-</div>
 
-<div align="center">
 
 ##### 🤝CONNECT WITH ME
 
@@ -35,18 +25,9 @@
 
 </div>
 
-<div align="center">
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-</div>
 
-<div align="center">
-
-### 🐍 Watch my contribution graph get eaten by the snake
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 
 
