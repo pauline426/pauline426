@@ -7,11 +7,17 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 
+<div align="center"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</div>
 
+<div align="center"> 
 <img src="https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge">
+</div>
 
+<div align="center"> 
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+</div>
 
 <div align="center">
 
@@ -28,6 +34,21 @@
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white">](https://wa.me/6282320084121)
 
 </div>
+
+<div align="center">
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
+
+</div>
+
+<div align="center">
+
+### 🐍 Watch my contribution graph get eaten by the snake
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+
 
 
 
