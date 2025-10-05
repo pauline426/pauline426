@@ -45,6 +45,10 @@
   border-radius: 50px;" />
 
   <!-- Footer GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OG82eHhmcnB1aXV1M2g2YWZvOWp1eng3MHF5ODZicmpvbzl2Mmk3dyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l3vR4yk0X20KimqJ2/giphy.gif" width="600" height="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWZ3a3J2M3FvaTA0b2R3amZjeWtpem9lN3Q1bzBuNHVpMDlydHBrOCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/d9QiBcfzg64Io/giphy.gif" width="600" height="300"/>
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTBzZ2gwZmx3bDkxMnU4bjBlYjAxMHhoeWU4NTZvbWViaXkzMWw4YSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/scNzVov4mY0rjyCkMZ/giphy.gif" width="600" height="80"/>
+
+
 
 </div>
