@@ -1,14 +1,15 @@
 ![Galuh pauline](img/github-header-banner%20(7).png)
 
-<div style="text-align:center;">
+<div align="center">
 
-![gift](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNjdTVuaG5xaDIwdzJ5a2t3b3oxYnpkMWx0aWp0ZHcxczFvYmw2OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hVEBWRInEvNOEVS18i/giphy.gif)
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNjdTVuaG5xaDIwdzJ5a2t3b3oxYnpkMWx0aWp0ZHcxczFvYmw2OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hVEBWRInEvNOEVS18i/giphy.gif" width="800"/>
 
-![gift](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdwbDVwd3BreGNycXZzbGR5NHVnNXltbDdrdG1ib2s0MDNweGZlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.gif)
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdwbDVwd3BreGNycXZzbGR5NHVnNXltbDdrdG1ib2s0MDNweGZlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.gif" width="800"/>
 
-![gift](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lsOWxhazk4b2M4MjFiYmx0b3RlZWsyaGZsODczcHhleWFqZTJyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriNVDssjmXssUk1O/giphy.gif)
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lsOWxhazk4b2M4MjFiYmx0b3RlZWsyaGZsODczcHhleWFqZTJyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriNVDssjmXssUk1O/giphy.gif" width="800"/>
 
 </div>
+
 
 
 
