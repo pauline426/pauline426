@@ -1,8 +1,8 @@
-![Galuh pauline](img/github-header-banner%20(6).png)
+![Galuh pauline](img/github-header-banner%20(7).png)
 
 <div style="text-align:center;">
 
-![gift](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnBueHZrdmRuZ3JlZDl6MXFkaHFmdm9qcW4ycWxqOHpmZ2trbG9vYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jgoG5u6rU7zV4c3ohd/giphy.gif)
+![gift](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNjdTVuaG5xaDIwdzJ5a2t3b3oxYnpkMWx0aWp0ZHcxczFvYmw2OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hVEBWRInEvNOEVS18i/giphy.gif)
 
 </div>
 
